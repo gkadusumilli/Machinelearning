@@ -1,1 +1,1 @@
-![Making-of Animation](scipy/result.gif "Making-of Animation")
+![Making-of Animation](https://github.com/gkadusumilli/Machinelearning/blob/master/scipy/result.gif)
